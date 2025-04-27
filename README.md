@@ -57,6 +57,7 @@ In addition to the typical event properties, Conferences also have a list of Spe
   - `presentationDuration`: the duration of the presentation.
 
 3. Create a simple **Use Case Diagram** illustrating how a user (e.g., admin, member, or guest) interacts with **either** the Association of Nurses or the Event Management application. Identify the main **actors** and the **use cases** (e.g., update membership, schedule an event, invite guests).
+![img.png](src/main/resources/static/use_case.png)
 
 4. Create a **UML Class Diagram** for one (or both) of the domains above:
 
@@ -65,6 +66,7 @@ In addition to the typical event properties, Conferences also have a list of Spe
 
    Indicate attributes and methods (even if briefly) and the relationships (e.g., `1..*`, `@OneToMany`, etc.).
 
+![img_3.png](src/main/resources/static/uml.png)
 5. Export a screenshot or PDF of your diagrams and include them in your repository or attach them to your README. This will help demonstrate your system design before or alongside your code.
 
 <br>
